@@ -1,6 +1,9 @@
 # Conway's Game of Life
 This repository is about conway's game of life, implemented in C++. The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 
+## Demo
+https://github.com/user-attachments/assets/787b6627-4530-4b1e-9944-0657487da001
+
 ## Rules
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 2. Any live cell with two or three live neighbours lives on to the next generation.
